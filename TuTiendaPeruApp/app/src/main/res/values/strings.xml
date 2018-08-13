@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tu Tienda Perú</string>
+    <!-- <string name="id_app_admob">ca-app-pub-9562437060450389~7811198849</string>
+
+    ID ANUNCIO DE PRUEBA
+    <string name="id_anuncio_admob">ca-app-pub-3940256099942544/6300978111</string>
+
+    ID ANUNCIO DE PRODUCCION
+    <string name="id_anuncio_admob">ca-app-pub-9562437060450389/5278250879</string>-->
+
+    <string name="app_compartir">https://play.google.com/store/apps/details?id=com.ma_developers.tutiendaperu&amp;hl=es</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="compartir_con">Compartir con</string>
+    <string name="informacion">Información</string>
+    <string name="especificaciones">Especificaciones</string>
+    <string name="sin_internet">Sin Conexión a Internet</string>
+</resources>
